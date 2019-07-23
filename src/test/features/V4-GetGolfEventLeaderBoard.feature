@@ -20,5 +20,5 @@ Feature: V4 retrieve the leader board of an event
 	#|2019054|
 	#|2019056|
 	#|2019058|
-	|2019060|
-	 #|2019062|
+	#|2019060|
+	 |2019062|
